@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"History foi o último clipe postado pela banda One Direction antes do hiato. One Direction é uma boyband pop formada na cidade de Londres em 2010. Atualmente o grupo é formado por Louis Tomlinson, Harry Styles, Liam Payne e Niall Horan. A formação original incluía Zayn Malik, que anunciou sua saída oficialmente em março de 2015."}
       />
 
       <Carousel
